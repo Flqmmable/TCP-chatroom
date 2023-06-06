@@ -6,5 +6,7 @@
 
 # Additional Notes
 In the "server.py" file, you can modify the IP address and port on which the socket will be created on.
+
 ![image](https://github.com/Flqmmable/tcp-chatroom/assets/129753283/a6c274e9-494c-4976-8c1c-084cf82449b8)
+
 Specify a new IP and port number on the "sock.bind()" line, respectively.
